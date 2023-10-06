@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\InterSystems\\IRIS20231\\dev\\java\\lib\\1.8\\intersystems-jdbc-3.7.1.jar"
+        ],
+        "exclude": [
+            "lib/intersystems-jdbc-3.7.1.jar"
+        ]
+    }
+}
